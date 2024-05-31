@@ -7,7 +7,7 @@ import Section from "@/components/layouts/Section";
 export default function Introduction() {
    
   return (
-    <Section sectionClass="bg-section-secondary" wrapperClass="grid md:grid-cols-2 gap-block" id="something">
+    <Section className="bg-section-secondary" wrapperClass="grid md:grid-cols-2 gap-block" id="something">
       {/* Image */}
       <div className="grid items-center gap-base">
         <Image

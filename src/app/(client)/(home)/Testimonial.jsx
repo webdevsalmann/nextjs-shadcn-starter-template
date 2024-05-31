@@ -30,7 +30,7 @@ const testimonials = [
 
 export default function Testimonial() {
   return (
-    <Section sectionClass="bg-section-secondary">
+    <Section className="bg-section-secondary">
       <div className="mx-auto md:w-4/5 md:text-center">
         <h2>What our Customer Says</h2>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum molestias sapiente sed, unde ab corrupti ex maxime! Aliquam ea dolores sit incidunt consectetur nobis, est explicabo vitae dolorem fugit tempore?</p>
